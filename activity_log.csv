@@ -12,3 +12,4 @@ date,plant_id,watered,fertilized,repotted,pruned
 12-04-2026,6,True,False,True,False
 12-04-2026,1,False,True,True,False
 12-04-2026,8,True,True,False,False
+12-04-2026,2,True,False,True,False
