@@ -1,0 +1,15 @@
+date,plant_id,watered,fertilized,repotted,pruned
+12-04-2026,3,True,True,False,False
+12-04-2026,5,True,False,True,False
+12-04-2026,8,False,True,True,False
+12-04-2026,1,False,True,True,False
+12-04-2026,4,False,False,False,True
+12-04-2026,6,False,True,True,False
+12-04-2026,8,False,False,True,False
+12-04-2026,3,False,True,False,False
+12-04-2026,5,False,True,True,False
+12-04-2026,3,False,True,False,False
+12-04-2026,6,True,False,True,False
+12-04-2026,1,False,True,True,False
+12-04-2026,8,True,True,False,False
+12-04-2026,2,True,False,True,False

@@ -1,0 +1,9 @@
+plant_id,plant_name,plant_type,location,date_acquired,watering_freq,sunlight_req,fertilizing_freq,repotting_freq,pruning_freq
+1,lavender,summer,outdoor,11-02-2025,5,high,28,360,30
+2,snake plant,all,hall,01-12-2025,14,low,56,192,90
+3,basil,summer,kitchen,15-03-2026,2,high,14,42,7
+4,aloe vera,spring,outdoor,10-10-2025,10,medium,42,540,60
+5,fern,spring,hall,20-01-2026,3,low,28,360,20
+6,mint,summer,kitchen,01-04-2026,2,medium,28,360,14
+7,grape,spring,outdoor,20-03-2026,10,high,90,1095,365
+8,lily,spring,living room,25-02-2026,4,medium,14,360,30
